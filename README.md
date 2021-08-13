@@ -1,15 +1,15 @@
-"# DesafioCucunbenSelenium" 
+"# DesafioCucunbenSelenium" <br>
 Nesse projeto eu adicionei novas etapas a um cenário de testes,  de acordo com o exercício proposto pelo professor Marcos Araujo de Lima<br>
 Cenario inicial:<br>
-
+        <ul>
         <li>Dado que um usuario acessa o site "http://automationpractice.com"</li>
   	<li>E pesquisa pelo produto "Blouse"</li>
   	<li>Quando adiciona o produto "Blouse" ao carrinho</li>
   	<li>Entao o produto "Blouse" deve estar presente no carrinho<br></li>
+         </ul>
 
-</ul>
 Cenário atualizado:<br>
-
+      <ul> 
   	<li>Dado que um usuario acessa o site "http://automationpractice.com"</li>
   	<li>E pesquisa pelo produto "Blouse"</li>
         <li>E adiciona o produto "Blouse" ao carrinho</li>
@@ -19,5 +19,6 @@ Cenário atualizado:<br>
 	<li>E escolhe a forma de transporte</li>
 	<li>E pagamento for confirmado</li>
 	<li>E deve ser apresentado a mensagem Your order on My Store is complete.<br></li>
+ </ul>
 Projeto original:<br>
 https://github.com/marcoslimaqa/bootcamp-bdd-everis-dio
