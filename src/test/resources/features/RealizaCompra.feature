@@ -16,8 +16,8 @@ Funcionalidade: Realizar Compra no E-commerce
 	E realiza login "bdd@desafioeveris.com" e senha "bdddesafio"
 	E Confirma endereço de entrega
 	E escolhe a forma de transporte
-	E pagamento for confirmado
-	E deve ser apresentado a mensagem Your order on My Store is complete.
+	Quando pagamento for confirmado
+	Entao deve ser apresentado a mensagem Your order on My Store is complete.
 
 
   		

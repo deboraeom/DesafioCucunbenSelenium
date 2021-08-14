@@ -17,8 +17,8 @@ Cenário atualizado:<br>
 	<li>E realiza login "bdd@desafioeveris.com" e senha "bdddesafio"</li>
 	<li>E Confirma endereço de entrega</li>
 	<li>E escolhe a forma de transporte</li>
-	<li>E pagamento for confirmado</li>
-	<li>E deve ser apresentado a mensagem Your order on My Store is complete.<br></li>
+	<li>Quando pagamento for confirmado</li>
+	<li>Entao deve ser apresentado a mensagem Your order on My Store is complete.<br></li>
  </ul>
 Projeto original:<br>
 https://github.com/marcoslimaqa/bootcamp-bdd-everis-dio
